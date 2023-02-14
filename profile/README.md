@@ -17,3 +17,6 @@
 
 ### Themes
 #### OOE [![Publish release](https://github.com/PSU-OOE/ooe-drupal/actions/workflows/release.yml/badge.svg)](https://github.com/PSU-OOE/ooe-drupal/actions/workflows/release.yml)
+
+## AWS
+### BLS Web API [![Publish release](https://github.com/PSU-OOE/bls-api-aws/actions/workflows/release.yml/badge.svg)](https://github.com/PSU-OOE/bls-api-aws/actions/workflows/release.yml)
