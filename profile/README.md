@@ -11,6 +11,10 @@
 ### Modules
 #### Announcements [![Test](https://github.com/PSU-OOE/psu_announcements/actions/workflows/test.yml/badge.svg)](https://github.com/PSU-OOE/psu_announcements/actions/workflows/test.yml)
 
+#### Block Conditions [![Test](https://github.com/PSU-OOE/psu_block_conditions/actions/workflows/test.yml/badge.svg)](https://github.com/PSU-OOE/psu_block_conditions/actions/workflows/test.yml)
+
+#### Chat Invalidation [![Test](https://github.com/PSU-OOE/psu_chat_invalidation/actions/workflows/test.yml/badge.svg)](https://github.com/PSU-OOE/psu_chat_invalidation/actions/workflows/test.yml)
+
 #### Recaptcha [![Test](https://github.com/PSU-OOE/psu_recaptcha/actions/workflows/test.yml/badge.svg)](https://github.com/PSU-OOE/psu_recaptcha/actions/workflows/test.yml)
 
 #### Webform Export [![Test](https://github.com/PSU-OOE/psu_webform_export/actions/workflows/test.yml/badge.svg)](https://github.com/PSU-OOE/psu_webform_export/actions/workflows/test.yml)
